@@ -1,0 +1,7 @@
+*.swp
+_site
+_theme_packages
+chickenside.sublime-project
+chickenside.sublime-workspace
+Gemfile.lock
+*~
