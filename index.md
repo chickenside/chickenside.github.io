@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Stirring Copy
+tagline: Words to loath for the public good
 ---
 {% include JB/setup %}
 
