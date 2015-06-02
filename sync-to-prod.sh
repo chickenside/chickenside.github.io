@@ -1,0 +1,1 @@
+aws --profile bob s3 sync "/cygdrive/c/Documents and Settings/bob/My Documents/git/chickenside.github.io/_site" s3://stirringcopy.io --exclude="opp.sublime*" --exclude="*.sh" --exclude="*~"  --exclude=".*" --delete
